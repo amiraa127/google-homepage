@@ -134,7 +134,7 @@ a:hover{
     width: 30px;
     opacity:0.5;
     border:none;
-    color:white
+    color:#fff
 }
 
 #apps:hover{
@@ -147,18 +147,18 @@ a:hover{
     font-weight:bold;
     padding:3px 12px 3px 12px;
     background: #4285f4;
-    color:white;
+    color:#fff;
     line-height:28px;
 }
 
 
 
 #sign a:visited, #sign a:active{
-    color:white;
+    color:#fff;
 }
 
 #sign a:hover{
-    color:white;
+    color:#fff;
     text-decoration:none;
     cursor:default;
 }
