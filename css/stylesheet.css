@@ -153,11 +153,12 @@ a:hover{
 
 
 
-#sign a:visited, #sign a{
+#sign a:visited, #sign a:active{
     color:white;
 }
 
 #sign a:hover{
+    color:white;
     text-decoration:none;
     cursor:default;
 }
