@@ -151,7 +151,9 @@ a:hover{
     line-height:28px;
 }
 
-#sign a:visited{
+
+
+#sign a:visited, #sign a{
     color:white;
 }
 
