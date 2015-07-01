@@ -1,2 +1,2 @@
 # google-homepage
-link: http://www.theodinproject.com/web-development-101/html-css?ref=lnav
+This is an implementation of the Google.com homepage created with as much detail as possible. This project was done as part of the Odin project's HTML/CSS course. The project can be found [here] (http://www.theodinproject.com/web-development-101/html-css?ref=lnav).
